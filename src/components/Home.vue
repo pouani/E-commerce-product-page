@@ -1,13 +1,13 @@
 <template lang="">
     <div>
-        <Carousel />
+        <product-detail />
     </div>
 </template>
 <script>
-import Carousel from './Carousel.vue'
+import ProductDetail from './ProductDetail.vue'
 export default {
     components: {
-        Carousel
+        ProductDetail
     }
 }
 </script>

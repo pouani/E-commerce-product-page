@@ -78,6 +78,7 @@ export default {
 
 .caroussel{
     max-width: 35rem;
+    min-width: 25rem;
 }
 
 /* .caroussel-btn{
